@@ -1,0 +1,14 @@
+.alert,
+.high-contrast {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', serif;
+}
+
+.alert {
+    background-color: yellow;
+}
+
+.high-contrast {
+    background-color: black;
+    color: white;
+}
