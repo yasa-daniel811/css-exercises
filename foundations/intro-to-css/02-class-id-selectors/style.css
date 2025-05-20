@@ -1,0 +1,23 @@
+/*
+style.css
+*/
+
+.title {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: rgb(245, 62, 87);
+}
+
+.title.cool {
+    font-size: 32px;
+}
+
+#number-2 {
+    color: blue;
+    font-size: 32px;
+}
+
+#number-4 {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
